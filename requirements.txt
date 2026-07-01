@@ -1,0 +1,8 @@
+streamlit
+numpy
+pillow
+onnxruntime
+albumentations
+torch
+torchvision
+tqdm
